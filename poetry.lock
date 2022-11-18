@@ -1,0 +1,15 @@
+[[package]]
+name = "pyip"
+version = "0.7"
+description = "pyip: assemble/disassemble raw ip packet"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "00814aafad827d0ade232b887d5d32ce52c25dfbbd9fecc6786613a2c55244a4"
+
+[metadata.files]
+pyip = []
